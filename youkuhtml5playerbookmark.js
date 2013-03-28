@@ -935,11 +935,4 @@
 
 })();
 
-//升级提示
-//(function(){
-//	var msg      = '<b style="font-size:18px">&#x798F;&#x5229;&#xFF1A;</b> &#x7AE5;&#x978B;&#x4EEC;&#x597D;&#xFF0C;&#x6211;&#x662F;&#x4F5C;&#x8005;&#x6731;&#x4E00;&#xFF0C;&#x8C22;&#x8C22;&#x5404;&#x4F4D;&#x5BF9;&#x4E8E;&#x5988;&#x5988;&#x518D;&#x4E5F;&#x4E0D;&#x7528;&#x62C5;&#x5FC3;&#x6211;&#x7684;macbook&#x53D1;&#x70EB;&#x8BA1;&#x5212;&#x7684;&#x4E00;&#x5982;&#x5BC4;&#x671B;&#x7684;&#x652F;&#x6301;&#x3002;&#x6211;&#x77E5;&#x9053;&#x4F60;&#x4EEC;&#x4E0D;&#x662F;&#x652F;&#x6301;&#xFF0C;&#x53EA;&#x662F;&#x6CA1;&#x4E8B;&#x4E00;&#x76F4;&#x7528;&#x7740;&#x5BF9;&#x628A;&#x3002;&#x5728;2013&#x5E74;&#x8FC7;&#x5E74;&#x7684;&#x8FD9;&#x4E2A;&#x6863;&#x53E3;&#xFF0C;&#x8BA1;&#x5212;&#x6709;&#x53D8;&#x52A8;&#x3002;&#x5988;&#x5988;&#x518D;&#x4E5F;&#x4E0D;&#x7528;&#x62C5;&#x5FC3;&#x6211;&#x7684;macbook&#x53D1;&#x70EB;&#x8BA1;&#x5212;&#x6709;&#x65B0;&#x7684;&#x8FDB;&#x5C55;&#x3002;&#x5230;&#x70B9;&#x51FB;&#x540E;&#x9762;&#x7684;&#x94FE;&#x63A5;&#xFF0C;&#x5FEB;&#x70B9;&#x554A;&#xFF01;&#xFF01;<a style="color:blue" target="_blank" href="http://zythum.sinaapp.com/youkuhtml5playerbookmark">http://zythum.sinaapp.com/youkuhtml5playerbookmark</a>'
-//	var msgblock = document.createElement('div');
-//	msgblock.style.cssText += 'color:#333;box-shadow:0 0 3px #000;padding:10px;margin:0;position:fixed;left:0;right:0;bottom:0;z-index:1000000000000;background:orange;font-size:14px;';
-//	msgblock.innerHTML = msg;
-//	document.body.appendChild(msgblock);
-//})();
+
