@@ -1,0 +1,1 @@
+vascript:(function()%7Bvar%20s%20=%20document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('src','http://www.peisan.com/youkuhtml5playerbookmark.js');document.head.appendChild(s);%7D)();
